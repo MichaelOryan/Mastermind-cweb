@@ -4,7 +4,7 @@ https://en.wikipedia.org/wiki/Mastermind_(board_game)
 
 <h2>Preface</h2>
 
-This is the second assignment for writing Mastermind which was to be done with Literate Programming. In this case CWEB.
+This is the second assignment for writing Mastermind which was to be done with a Literate Programming paradigm. In this case the CWEB language was used.
 
 <h2>Problem Description</h2>
 
